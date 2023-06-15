@@ -11,6 +11,7 @@ bot/
   ├── wikipedia_helper.py
   ├── telegram_helper.py
   ├── main.py
+.env
 README.md
 requirements.txt
 ```
