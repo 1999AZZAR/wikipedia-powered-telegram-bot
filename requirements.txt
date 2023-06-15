@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+python-json-logger==2.0.7
+python-telegram-bot==13.7
+wikipedia==1.4.0
+Wikipedia-API==0.5.8
