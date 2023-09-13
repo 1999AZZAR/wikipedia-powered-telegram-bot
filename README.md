@@ -1,5 +1,7 @@
 # wikipedia-powered-telegram-bot
 
+[![CodeFactor](https://www.codefactor.io/repository/github/1999azzar/wikipedia-powered-telegram-bot/badge)](https://www.codefactor.io/repository/github/1999azzar/wikipedia-powered-telegram-bot)
+
 This chatbot is designed to provide information from Wikipedia based on user queries. It is implemented using the Telegram Bot API and utilizes the Wikipedia API to fetch search results and article summaries.
 
 ## Folder Structure
